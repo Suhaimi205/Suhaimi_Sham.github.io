@@ -10,6 +10,11 @@ body {
   min-height: 100vh;
 }
 
+.title{
+  font-family: "Poppins", Arial, sans-serif;
+  color: #222;
+}
+
 /* Container */
 .container {
   width: 100%;
