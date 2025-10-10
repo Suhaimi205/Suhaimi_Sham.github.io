@@ -139,3 +139,13 @@ footer {
   padding: 15px 0;
   font-size: 0.9rem;
 }
+
+.linkedin {
+  background-color: #0077b5;
+  color: white;
+  margin-left: 10px;
+}
+
+.linkedin:hover {
+  background-color: #005a86;
+}
